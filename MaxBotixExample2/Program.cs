@@ -15,7 +15,8 @@ namespace MaxBotixExample2
             while (true)
             {  
                 sensor.Read();
-                Debug.Print(sensor.Range.ToString());
+                Debug.Print(sensor.Inches.ToString());
+                Thread.Sleep(100);
             }
         }
     }
