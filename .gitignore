@@ -8,6 +8,7 @@ _ReSharper.*
 *.resharper
 *.suo
 *.cache
+*.dat
 Application/*
 */Stubs/*
 TestResults/*
