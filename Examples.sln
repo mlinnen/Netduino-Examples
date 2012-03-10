@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaxBotixExample", "MaxBotix
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaxBotixExample2", "MaxBotixExample2\MaxBotixExample2.csproj", "{B7060D71-C2A0-406A-910F-6FA6A10F150B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PingExample", "PingExample\PingExample.csproj", "{FBBE2C60-86FE-4094-9041-6588414184B2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -31,6 +33,12 @@ Global
 		{B7060D71-C2A0-406A-910F-6FA6A10F150B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B7060D71-C2A0-406A-910F-6FA6A10F150B}.Release|Any CPU.Build.0 = Release|Any CPU
 		{B7060D71-C2A0-406A-910F-6FA6A10F150B}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{FBBE2C60-86FE-4094-9041-6588414184B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBBE2C60-86FE-4094-9041-6588414184B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBBE2C60-86FE-4094-9041-6588414184B2}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{FBBE2C60-86FE-4094-9041-6588414184B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBBE2C60-86FE-4094-9041-6588414184B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBBE2C60-86FE-4094-9041-6588414184B2}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
